@@ -18,6 +18,5 @@ Spent sometime figuring out how to use the Twitch and Case function, how to chan
 ![Video Walkthrough](Tipzi.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-
+Used resources on [Stackoverflow](http://stackoverflow.com/).
 
