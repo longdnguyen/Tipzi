@@ -4,8 +4,8 @@ Time spent: ~35 hours
 
 Completed user stories:
  Required:
- *[x] User can input the bill amount
- *[x] Tip Calculating
+  [x] User can input the bill amount
+  [x] Tip Calculating
  Optional:
  *[x] Animation when starting the application
  *[x] Split the bill with other people
